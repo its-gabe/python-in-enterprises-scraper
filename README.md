@@ -44,8 +44,8 @@ Para executar este projeto, siga as instruções abaixo:
     ```bash
     git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2. Abra o repositório no VSCode:
-    abra o arquivo "count_occurrences.py" e modifique conforme necessário para conseguir fazer suas próprias análises
+2. Abra o repositório no VScode:
+    - abra o arquivo "count_occurrences.py" e modifique conforme necessário para conseguir fazer suas próprias análises
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este repositório ou recomendações para melhorar o artigo.
