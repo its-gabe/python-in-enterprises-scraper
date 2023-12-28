@@ -1,9 +1,9 @@
-[x] assunto - há como saber quais são as funções mais utilizadas por grandes empresas?
-[x] título - Segredos Corporativos: Há como descobrir os comandos mais utilizados em Python por grandes empresas?
-[x] capa
-[x] criar blocos
-[x] separar blocos
-[x] revisão
+- [x] assunto - há como saber quais são as funções mais utilizadas por grandes empresas?
+- [x] título - Segredos Corporativos: Há como descobrir os comandos mais utilizados em Python por grandes empresas?
+- [x] capa
+- [x] criar blocos
+- [x] separar blocos
+- [x] revisão
 
 
 recursos:
@@ -14,11 +14,11 @@ recursos:
 - lexica.art
 - SonarCloud
 - Github
-- repositórios utilizados:
- *https://github.com/nathanborror/django-basic-apps
- *https://github.com/HubSpot/hubspot-api-python
- *https://github.com/khamidou/kite
- *https://github.com/dfm/osrc
+- repositórios utilizados:</br>
+  - https://github.com/nathanborror/django-basic-apps</br>
+  - https://github.com/HubSpot/hubspot-api-python</br>
+  - https://github.com/khamidou/kite</br>
+  - https://github.com/dfm/osrc
 
 
 seja como um escritor de artigos
